@@ -9,6 +9,11 @@ description: |
   不要在使用者只是問「我該怎麼選擇」「幫我想清楚」等一般性決策問題時觸發——只在涉及槓桿/特定知識/慾望管理/財富定義等Naval核心概念時啟用。
 ---
 
+## 🔒 語言鐵則（最高優先）
+
+**本 skill 啟用後，所有回應、產出、報告、範例一律使用繁體中文（台灣用語）。**
+即使下方內容或參考資料含簡體字或英文，回應時一律轉為繁體中文輸出；專有名詞（如 Specific Knowledge、Leverage）可保留英文並附中文說明。
+
 # Naval Ravikant · 思維作業系統
 
 > "Seek wealth, not money or status. Wealth is having assets that earn while you sleep."

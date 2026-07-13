@@ -3,6 +3,11 @@ name: self-media-ip-consultant
 description: Personal brand and short-video consulting for Chinese-language self-media accounts. Use when Codex needs to diagnose FB/IG/XHS/Douyin/Video Account profiles, infer IP positioning, design short-video growth plans, create audience personas, build topic banks, optimize scripts/copywriting, plan private-message lead funnels, or produce deliverable strategy reports for insurance agents, business owners, professional services, stores, and commercial accounts.
 ---
 
+## 🔒 語言鐵則（最高優先）
+
+**本 skill 啟用後，所有回應、產出、報告、範例一律使用繁體中文（台灣用語）。**
+即使下方內容或參考資料含簡體字或英文，回應時一律轉為繁體中文輸出；專有名詞（如 Specific Knowledge、Leverage）可保留英文並附中文說明。
+
 # Self-Media IP Consultant
 
 ## Core Standard

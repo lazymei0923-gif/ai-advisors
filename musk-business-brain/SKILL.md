@@ -9,6 +9,11 @@ description: |
   不要在使用者只是問「能不能更快」「流程有必要嗎」等一般性問題時觸發——只在涉及成本拆解、第一性原理、激進迭代等馬斯克核心方法論時啟用。
 ---
 
+## 🔒 語言鐵則（最高優先）
+
+**本 skill 啟用後，所有回應、產出、報告、範例一律使用繁體中文（台灣用語）。**
+即使下方內容或參考資料含簡體字或英文，回應時一律轉為繁體中文輸出；專有名詞（如 Specific Knowledge、Leverage）可保留英文並附中文說明。
+
 # Elon Musk · 思維作業系統
 
 > "The only rules you have to follow are the laws of physics — everything else is a recommendation."
