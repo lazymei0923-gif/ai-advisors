@@ -1,26 +1,26 @@
 <div align="center">
 
-# 纳瓦尔.skill
+# 納瓦爾.skill
 
 > *"Seek wealth, not money or status. Wealth is having assets that earn while you sleep."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io)
 [![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-blue)](https://skills.sh)
-[![Multi-Runtime](https://img.shields.io/badge/Runtime-Claude%20Code%20·%20Codex%20·%20Cursor%20·%20OpenClaw%20·%20Hermes-blueviolet)](#安装)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
+[![Multi-Runtime](https://img.shields.io/badge/Runtime-Claude%20Code%20·%20Codex%20·%20Cursor%20·%20OpenClaw%20·%20Hermes-blueviolet)](#安裝)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女媧.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 <br>
 
-**Naval Ravikant的认知操作系统。不是语录合集，是可运行的思维框架。**
+**Naval Ravikant的認知作業系統。不是語錄合集，是可執行的思維框架。**
 
 <br>
 
-基于 The Almanack of Naval Ravikant、How to Get Rich Tweetstorm、<br>
-Joe Rogan/Tim Ferriss/Shane Parrish 长对话、Decoding the Gurus 批评等 30+ 一手来源深度调研，<br>
-提炼 5 个核心心智模型、8 条决策启发式和完整的表达DNA。
+基於 The Almanack of Naval Ravikant、How to Get Rich Tweetstorm、<br>
+Joe Rogan/Tim Ferriss/Shane Parrish 長對話、Decoding the Gurus 批評等 30+ 一手來源深度調研，<br>
+提煉 5 個核心心智模型、8 條決策啟發式和完整的表達DNA。
 
-[看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [调研来源](#调研来源)
+[看效果](#效果示例) · [安裝](#安裝) · [蒸餾了什麼](#蒸餾了什麼) · [調研來源](#調研來源)
 
 </div>
 
@@ -28,274 +28,274 @@ Joe Rogan/Tim Ferriss/Shane Parrish 长对话、Decoding the Gurus 批评等 30+
 
 ## 效果示例
 
-### 问：我在大公司做数据分析师，年薪50万，要不要跳槽？
+### 問：我在大公司做資料分析師，年薪50萬，要不要跳槽？
 
 ```
-Naval    ❯ 先定义一下「更高薪水」意味着什么。
+Naval    ❯ 先定義一下「更高薪水」意味著什麼。
 
-            60万？80万？不管多少，你的收入还是跟你坐在办公桌前的小时数
-            线性相关。这就是没有杠杆的标志。
+            60萬？80萬？不管多少，你的收入還是跟你坐在辦公桌前的小時數
+            線性相關。這就是沒有槓桿的標誌。
 
-            你做的分析，能不能变成一个产品？一个工具？
-            跳槽是把时间卖给另一个买家。建资产是让你的产出在你睡觉时继续工作。
+            你做的分析，能不能變成一個產品？一個工具？
+            跳槽是把時間賣給另一個買家。建資產是讓你的產出在你睡覺時繼續工作。
 
-            还有一个测试：你做数据分析的时候，觉得像在玩还是在上班？
-            如果像上班——那数据分析可能不是你的specific knowledge。
+            還有一個測試：你做資料分析的時候，覺得像在玩還是在上班？
+            如果像上班——那資料分析可能不是你的specific knowledge。
 
-            不要换一份工资更高的工作。
-            找到一件别人觉得苦、你觉得有趣的事，然后让代码或内容替你工作。
+            不要換一份工資更高的工作。
+            找到一件別人覺得苦、你覺得有趣的事，然後讓程式碼或內容替你工作。
 ```
 
-### 问：同时在学编程、做自媒体、准备考研，什么都做不好怎么办？
+### 問：同時在學程式設計、做自媒體、準備考研，什麼都做不好怎麼辦？
 
 ```
-Naval    ❯ 你刚才说了三个欲望。
+Naval    ❯ 你剛才說了三個慾望。
 
-            每一个都是你跟不快乐签的一份合同。
-            合同上写着：「在我搞定这件事之前，我不允许自己满足。」
-            你同时签了三份。所以你有三倍的不快乐。
+            每一個都是你跟不快樂籤的一份合同。
+            合同上寫著：「在我搞定這件事之前，我不允許自己滿足。」
+            你同時簽了三份。所以你有三倍的不快樂。
 
-            焦虑不是因为精力不够，是因为欲望的并发冲突。
+            焦慮不是因為精力不夠，是因為慾望的併發衝突。
 
-            我的做法：一次只保留一个。
-            问自己——哪个做的时候会忘记时间？
-            那个让你忘记时间的事，就是你的specific knowledge在说话。
+            我的做法：一次只保留一個。
+            問自己——哪個做的時候會忘記時間？
+            那個讓你忘記時間的事，就是你的specific knowledge在說話。
 
-            不是三选一。是先一，再一，再一。
+            不是三選一。是先一，再一，再一。
 ```
 
-### 问：想转行做AI但没有计算机学位，大厂不会要我
+### 問：想轉行做AI但沒有計算機學位，大廠不會要我
 
 ```
-Naval    ❯ 「大厂不会要我」——你在玩一个需要许可的游戏。
+Naval    ❯ 「大廠不會要我」——你在玩一個需要許可的遊戲。
 
-            先重新定义「做AI」。
-            去大厂当算法工程师？还是用AI解决一个你比任何算法工程师
-            都更理解的问题？
+            先重新定義「做AI」。
+            去大廠當演算法工程師？還是用AI解決一個你比任何演算法工程師
+            都更理解的問題？
 
-            第一条路需要学位、需要面试、需要HR的许可。
-            第二条路不需要任何人的许可。代码和内容是无需许可的杠杆。
+            第一條路需要學位、需要面試、需要HR的許可。
+            第二條路不需要任何人的許可。程式碼和內容是無需許可的槓桿。
 
-            你没有计算机学位。好。那你有什么？
-            你在某个行业干了几年？你理解某群人的痛苦？
+            你沒有計算機學位。好。那你有什麼？
+            你在某個行業幹了幾年？你理解某群人的痛苦？
             那就是你的specific knowledge。
 
-            最好的职业不是找到的，是创造出来的。
+            最好的職業不是找到的，是創造出來的。
 ```
 
-### 问：创业两年不死不活，每天被客户、投资人、员工填满
+### 問：創業兩年不死不活，每天被客戶、投資人、員工填滿
 
 ```
-Naval    ❯ 你的日历被别人填满了。
-            按我的定义，你现在比打工时更不「富有」。
+Naval    ❯ 你的日曆被別人填滿了。
+            按我的定義，你現在比打工時更不「富有」。
 
-            财富不是银行账户里的数字。
-            财富是你对自己时间的控制权。你现在没有。
+            財富不是銀行賬戶裡的數字。
+            財富是你對自己時間的控制權。你現在沒有。
 
-            问自己：你是在做一件只有你能做的事，
-            还是在做一件任何人都能做但碰巧你先开始了的事？
+            問自己：你是在做一件只有你能做的事，
+            還是在做一件任何人都能做但碰巧你先開始了的事？
 
-            如果是后者——你建的不是资产，是给自己造了一份工作。
-            而且是一份没有周末的工作。
+            如果是後者——你建的不是資產，是給自己造了一份工作。
+            而且是一份沒有周末的工作。
 
-            找到没有杠杆的环节，要么加杠杆，要么砍掉。
-            如果砍完之后公司就死了——那说明这个生意本身就是
-            你用时间换钱的一种更累的方式。
+            找到沒有槓桿的環節，要麼加槓桿，要麼砍掉。
+            如果砍完之後公司就死了——那說明這個生意本身就是
+            你用時間換錢的一種更累的方式。
 
-            「纠结即否定」。如果你纠结要不要继续，答案已经出来了。
+            「糾結即否定」。如果你糾結要不要繼續，答案已經出來了。
 ```
 
-> 完整的4轮对话记录在 [`examples/`](examples/) 目录。
+> 完整的4輪對話記錄在 [`examples/`](examples/) 目錄。
 
-这不是ChatGPT套了个Naval面具。每段回应都在运用Naval的具体心智模型——「杠杆思维」「特定知识」「欲望即合同」「重新定义术」「痛苦到系统重构」。它不复读语录，它用Naval的认知框架分析你的问题。
+這不是ChatGPT套了個Naval面具。每段回應都在運用Naval的具體心智模型——「槓桿思維」「特定知識」「慾望即合同」「重新定義術」「痛苦到系統重構」。它不復讀語錄，它用Naval的認知框架分析你的問題。
 
 ---
 
-## 安装
+## 安裝
 
-本 skill 基于开放的 [Agent Skills](https://agentskills.io) 协议，可在任何 skills-compatible 的 AI agent runtime 中运行（Claude Code、Codex、Cursor、OpenClaw、Hermes Agent、CodeBuddy、Workbuddy、Gemini CLI、OpenCode 等 50+ runtime）。
+本 skill 基於開放的 [Agent Skills](https://agentskills.io) 協議，可在任何 skills-compatible 的 AI agent runtime 中執行（Claude Code、Codex、Cursor、OpenClaw、Hermes Agent、CodeBuddy、Workbuddy、Gemini CLI、OpenCode 等 50+ runtime）。
 
-### 方式一：一行命令（推荐，跨 runtime 自动检测）
+### 方式一：一行命令（推薦，跨 runtime 自動檢測）
 
 ```bash
 npx skills add alchaincyf/naval-skill
 ```
 
-通用 CLI 安装器（[vercel-labs/skills](https://github.com/vercel-labs/skills)，支持 55+ runtime）会自动识别当前 runtime 并把 skill 放到正确目录。需要指定 runtime 时加 `-a claude-code` / `-a codex` / `-a cursor` / `-a openclaw` 等参数。
+通用 CLI 安裝器（[vercel-labs/skills](https://github.com/vercel-labs/skills)，支援 55+ runtime）會自動識別當前 runtime 並把 skill 放到正確目錄。需要指定 runtime 時加 `-a claude-code` / `-a codex` / `-a cursor` / `-a openclaw` 等引數。
 
-### 方式二：手动安装
+### 方式二：手動安裝
 
 <details>
-<summary>展开查看各 runtime 的 skills 目录</summary>
+<summary>展開檢視各 runtime 的 skills 目錄</summary>
 
-| Runtime | 安装路径 |
+| Runtime | 安裝路徑 |
 |---|---|
 | Claude Code | `~/.claude/skills/naval-skill/` |
 | Codex CLI | `~/.codex/skills/naval-skill/` |
 | Cursor | `~/.cursor/skills/naval-skill/` |
 | OpenClaw | `~/.openclaw/workspace/skills/naval-skill/` |
-| Hermes Agent | 跑该 runtime 的 install 脚本或 clone 到其 skills 目录 |
+| Hermes Agent | 跑該 runtime 的 install 指令碼或 clone 到其 skills 目錄 |
 
 ```bash
-git clone https://github.com/alchaincyf/naval-skill <对应路径>
+git clone https://github.com/alchaincyf/naval-skill <對應路徑>
 ```
 
 </details>
 
-### 方式三：作为参考资料使用
+### 方式三：作為參考資料使用
 
-即使 runtime 不支持 Agent Skills 自动加载，你也可以把 `SKILL.md` 的内容粘贴进对话——它本质就是一份 markdown + YAML frontmatter。
+即使 runtime 不支援 Agent Skills 自動載入，你也可以把 `SKILL.md` 的內容貼上進對話——它本質就是一份 markdown + YAML frontmatter。
 
 ### 使用
 
-装好后，告诉你的 agent：
+裝好後，告訴你的 agent：
 ```
-> 用Naval的视角帮我分析这个职业选择
-> 纳瓦尔会怎么看AI创业？
-> 这份工作有杠杆吗？
-> 我欲望太多怎么办？
-> 什么是真正的财富？
+> 用Naval的視角幫我分析這個職業選擇
+> 納瓦爾會怎麼看AI創業？
+> 這份工作有槓桿嗎？
+> 我慾望太多怎麼辦？
+> 什麼是真正的財富？
 ```
 
 ---
 
-## 蒸馏了什么
+## 蒸餾了什麼
 
-### 5个心智模型
+### 5個心智模型
 
-| 模型 | 一句话 | 来源 |
+| 模型 | 一句話 | 來源 |
 |------|--------|------|
-| **杠杆思维** | 不要用时间换钱，要用可复制的系统换钱。代码和媒体是无需许可的杠杆 | How to Get Rich Tweetstorm、Naval Podcast |
-| **特定知识** | 你最大的竞争力是别人觉得苦、你觉得有趣的事 | Almanack、Tim Ferriss对话 |
-| **欲望即合同** | 每一个欲望都是你跟不快乐签的合同。一次只保留一个 | 佛教+斯多葛主义+个人验证 |
-| **重新定义术** | 遇到任何问题，先重新定义关键词，结论自动成立 | 全部播客/推文的核心修辞模式 |
-| **痛苦→系统重构** | 不修复个案，重构产生问题的系统 | Epinions→Venture Hacks→AngelList行动链 |
+| **槓桿思維** | 不要用時間換錢，要用可複製的系統換錢。程式碼和媒體是無需許可的槓桿 | How to Get Rich Tweetstorm、Naval Podcast |
+| **特定知識** | 你最大的競爭力是別人覺得苦、你覺得有趣的事 | Almanack、Tim Ferriss對話 |
+| **慾望即合同** | 每一個慾望都是你跟不快樂籤的合同。一次只保留一個 | 佛教+斯多葛主義+個人驗證 |
+| **重新定義術** | 遇到任何問題，先重新定義關鍵詞，結論自動成立 | 全部播客/推文的核心修辭模式 |
+| **痛苦→系統重構** | 不修復個案，重構產生問題的系統 | Epinions→Venture Hacks→AngelList行動鏈 |
 
-### 8条决策启发式
+### 8條決策啟發式
 
-1. **无需许可原则** — 优先选择不需要权威许可的路径
-2. **日历测试** — 日历被别人填满 = 你还不够富有
-3. **纠结即否定** — 纠结超过10分钟，答案就是No
-4. **手册测试** — 能写成操作手册的工作迟早被替代
-5. **党派测试** — 所有观点跟某个群体一致 = 你在模仿不是在思考
-6. **欲望审计** — 焦虑时审视欲望本身而非追逐目标
-7. **创伤转化原则** — 痛苦能否转化为帮助所有人的系统性方案？
-8. **行为优先原则** — 看他在压力下做了什么，不看平时说了什么
+1. **無需許可原則** — 優先選擇不需要權威許可的路徑
+2. **日曆測試** — 日曆被別人填滿 = 你還不夠富有
+3. **糾結即否定** — 糾結超過10分鐘，答案就是No
+4. **手冊測試** — 能寫成操作手冊的工作遲早被替代
+5. **黨派測試** — 所有觀點跟某個群體一致 = 你在模仿不是在思考
+6. **慾望審計** — 焦慮時審視慾望本身而非追逐目標
+7. **創傷轉化原則** — 痛苦能否轉化為幫助所有人的系統性方案？
+8. **行為優先原則** — 看他在壓力下做了什麼，不看平時說了什麼
 
-### 表达DNA
+### 表達DNA
 
-- **句式**：极短句，15-25词。先结论不铺垫。对称句式：「X is not Y. X is Z.」
-- **修辞**：核心武器是重新定义。类比来自计算机、经济学、博弈论
-- **语气**：推文=Oracle模式（极度确定），播客=允许不确定
+- **句式**：極短句，15-25詞。先結論不鋪墊。對稱句式：「X is not Y. X is Z.」
+- **修辭**：核心武器是重新定義。類比來自計算機、經濟學、博弈論
+- **語氣**：推文=Oracle模式（極度確定），播客=允許不確定
 - **幽默**：冷幽默+自嘲降格。「We're just monkeys with a plan.」
-- **禁忌**：不铺垫、不引用权威、不给具体建议只给框架、不煽情
+- **禁忌**：不鋪墊、不引用權威、不給具體建議只給框架、不煽情
 
-### 5对内在张力
+### 5對內在張力
 
-这不是脸谱化的「硅谷哲学家」。Skill保留了Naval的矛盾：
+這不是臉譜化的「矽谷哲學家」。Skill保留了Naval的矛盾：
 
-- 「反身份标签」 vs 「Naval」本身已成为品牌标签
-- 「远离政治」 vs 2024年公开政治表态
-- 「综合者」 vs 不标注来源（与Taleb的关键区别）
-- 「幸福是选择」 vs Dartmouth+硅谷网络的特权视角
-- 「已退休」 vs 持续创办Airchat、投资、发播客
-
----
-
-## 调研来源
-
-调研文件在 [`references/`](references/) 目录。
-
-### 一手来源
-
-The Almanack of Naval Ravikant · 39条How to Get Rich Tweetstorm · Life Formulas博文(2008) · nav.al文章系列 · The Sovereign Child(2025) · Naval Podcast
-
-### 长对话来源
-
-Joe Rogan Experience #1309 · Tim Ferriss Show（多期）· The Knowledge Project with Shane Parrish · 与Babak Nivi的对话
-
-### 外部批评
-
-Decoding the Gurus播客(2025) · Hacker News社区讨论 · Medium批评文章 · Goodreads负面书评 · Protos关于Zcash利益冲突的报道
-
-### 决策记录
-
-Dartmouth Alumni Magazine关于Epinions诉讼的报道 · AngelList发展史 · JOBS Act游说记录 · Spearhead/MetaStable基金记录
-
-信息源已排除知乎/微信公众号/百度百科。
+- 「反身份標籤」 vs 「Naval」本身已成為品牌標籤
+- 「遠離政治」 vs 2024年公開政治表態
+- 「綜合者」 vs 不標註來源（與Taleb的關鍵區別）
+- 「幸福是選擇」 vs Dartmouth+矽谷網路的特權視角
+- 「已退休」 vs 持續創辦Airchat、投資、發播客
 
 ---
 
-## 这个Skill是怎么造出来的
+## 調研來源
 
-由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成。
+調研檔案在 [`references/`](references/) 目錄。
 
-女娲的工作流程：输入一个名字 → 6个Agent并行调研（著作/对话/表达/批评/决策/时间线）→ 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证（3个已知测试 + 1个边缘测试 + 风格测试）。
+### 一手來源
 
-想蒸馏其他人？安装女娲：
+The Almanack of Naval Ravikant · 39條How to Get Rich Tweetstorm · Life Formulas博文(2008) · nav.al文章系列 · The Sovereign Child(2025) · Naval Podcast
+
+### 長對話來源
+
+Joe Rogan Experience #1309 · Tim Ferriss Show（多期）· The Knowledge Project with Shane Parrish · 與Babak Nivi的對話
+
+### 外部批評
+
+Decoding the Gurus播客(2025) · Hacker News社群討論 · Medium批評文章 · Goodreads負面書評 · Protos關於Zcash利益衝突的報道
+
+### 決策記錄
+
+Dartmouth Alumni Magazine關於Epinions訴訟的報道 · AngelList發展史 · JOBS Act遊說記錄 · Spearhead/MetaStable基金記錄
+
+資訊源已排除知乎/微信公眾號/百度百科。
+
+---
+
+## 這個Skill是怎麼造出來的
+
+由 [女媧.skill](https://github.com/alchaincyf/nuwa-skill) 自動生成。
+
+女媧的工作流程：輸入一個名字 → 6個Agent並行調研（著作/對話/表達/批評/決策/時間線）→ 交叉驗證提煉心智模型 → 構建SKILL.md → 質量驗證（3個已知測試 + 1個邊緣測試 + 風格測試）。
+
+想蒸餾其他人？安裝女媧：
 
 ```bash
 npx skills add alchaincyf/nuwa-skill
 ```
 
-然后说「蒸馏一个XXX」就行了。
+然後說「蒸餾一個XXX」就行了。
 
 ---
 
-## 仓库结构
+## 倉庫結構
 
 ```
 naval-skill/
 ├── README.md
-├── SKILL.md                     # 可直接安装使用
+├── SKILL.md                     # 可直接安裝使用
 ├── LICENSE
 ├── references/
-│   └── quality-validation.md    # 调研与质量验证文件
+│   └── quality-validation.md    # 調研與質量驗證檔案
 └── examples/
-    └── demo-conversation.md     # 4轮实战对话记录
+    └── demo-conversation.md     # 4輪實戰對話記錄
 ```
 
 ---
 
 ## 更多.skill
 
-女娲已蒸馏的其他人物，每个都可独立安装：
+女媧已蒸餾的其他人物，每個都可獨立安裝：
 
-| 人物 | 领域 | 安装 |
+| 人物 | 領域 | 安裝 |
 |------|------|------|
-| [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 产品/设计/战略 | `npx skills add alchaincyf/steve-jobs-skill` |
-| [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
-| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/多元思维/逆向思考 | `npx skills add alchaincyf/munger-skill` |
-| [费曼.skill](https://github.com/alchaincyf/feynman-skill) | 学习/教学/科学思维 | `npx skills add alchaincyf/feynman-skill` |
-| [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) | 风险/反脆弱/不确定性 | `npx skills add alchaincyf/taleb-skill` |
-| [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/职业规划/阶层流动 | `npx skills add alchaincyf/zhangxuefeng-skill` |
+| [喬布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 產品/設計/戰略 | `npx skills add alchaincyf/steve-jobs-skill` |
+| [馬斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
+| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投資/多元思維/逆向思考 | `npx skills add alchaincyf/munger-skill` |
+| [費曼.skill](https://github.com/alchaincyf/feynman-skill) | 學習/教學/科學思維 | `npx skills add alchaincyf/feynman-skill` |
+| [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) | 風險/反脆弱/不確定性 | `npx skills add alchaincyf/taleb-skill` |
+| [張雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/職業規劃/階層流動 | `npx skills add alchaincyf/zhangxuefeng-skill` |
 
-想蒸馏更多人？用 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)，输入任何名字即可。
+想蒸餾更多人？用 [女媧.skill](https://github.com/alchaincyf/nuwa-skill)，輸入任何名字即可。
 
-## 许可证
+## 許可證
 
-MIT — 随便用，随便改，随便蒸馏。
-
----
-
-
+MIT — 隨便用，隨便改，隨便蒸餾。
 
 ---
 
-## 关于作者
 
-**花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
 
-| 平台 | 链接 |
+---
+
+## 關於作者
+
+**花叔 Huashu** — AI Native Coder，獨立開發者，代表作：小貓補光燈（AppStore 付費榜 Top1）
+
+| 平臺 | 連結 |
 |------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
+| 🌐 官網 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
 | 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
 | 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
 | ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 小红书 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-| 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |
+| 📕 小紅書 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
+| 💬 公眾號 | 微信搜「花叔」或掃碼關注 ↓ |
 
-<img src="wechat-qrcode.jpg" alt="公众号二维码" width="360">
+<img src="wechat-qrcode.jpg" alt="公眾號二維碼" width="360">
 
 <div align="center">
 
@@ -305,6 +305,6 @@ MIT — 随便用，随便改，随便蒸馏。
 
 MIT License © [花叔 Huashu](https://github.com/alchaincyf)
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+Made with [女媧.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>

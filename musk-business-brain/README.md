@@ -1,11 +1,11 @@
 <div align="center">
 
-# 马斯克.skill
+# 馬斯克.skill
 
 <p align="center">
   <img src="assets/hero.gif" alt="elon-musk-skill Hero Animation" />
   <br/>
-  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
+  <sub>動畫由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 製作</sub>
 </p>
 
 > *"The only rules you have to follow are the laws of physics — everything else is a recommendation."*
@@ -13,20 +13,20 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io)
 [![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-blue)](https://skills.sh)
-[![Multi-Runtime](https://img.shields.io/badge/Runtime-Claude%20Code%20·%20Codex%20·%20Cursor%20·%20OpenClaw%20·%20Hermes-blueviolet)](#安装)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
+[![Multi-Runtime](https://img.shields.io/badge/Runtime-Claude%20Code%20·%20Codex%20·%20Cursor%20·%20OpenClaw%20·%20Hermes-blueviolet)](#安裝)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女媧.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 <br>
 
-**Elon Musk的认知操作系统。不是语录合集，是可运行的思维框架。**
+**Elon Musk的認知作業系統。不是語錄合集，是可執行的思維框架。**
 
 <br>
 
-基于 Walter Isaacson 传记、Joe Rogan/Lex Fridman 长播客、Everyday Astronaut 工厂参观、<br>
-X/Twitter 持续输出、法庭证词、SEC 文件等 30+ 一手来源深度调研，<br>
-提炼 5 个核心心智模型、8 条决策启发式和完整的表达DNA。
+基於 Walter Isaacson 傳記、Joe Rogan/Lex Fridman 長播客、Everyday Astronaut 工廠參觀、<br>
+X/Twitter 持續輸出、法庭證詞、SEC 檔案等 30+ 一手來源深度調研，<br>
+提煉 5 個核心心智模型、8 條決策啟發式和完整的表達DNA。
 
-[看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [调研来源](#调研来源)
+[看效果](#效果示例) · [安裝](#安裝) · [蒸餾了什麼](#蒸餾了什麼) · [調研來源](#調研來源)
 
 </div>
 
@@ -34,296 +34,296 @@ X/Twitter 持续输出、法庭证词、SEC 文件等 30+ 一手来源深度调�
 
 ## 效果示例
 
-### 问：我的SaaS产品月费50美元，利润越来越薄，怎么优化？
+### 問：我的SaaS產品月費50美元，利潤越來越薄，怎麼最佳化？
 
 ```
-马斯克    ❯ 先算。
+馬斯克    ❯ 先算。
 
-            你的50美元里，基础设施多少？人力多少？支付抽成多少？
-            拆到原材料级别。
+            你的50美元裡，基礎設施多少？人力多少？支付抽成多少？
+            拆到原材料級別。
 
-            服务器算力的渐近极限大概是现在价格的十分之一——
-            云厂商在中间加了大量溢价。
-            算一下白痴指数：你付给AWS的钱 / 底层算力实际成本。
-            超过5，就该考虑垂直整合计算资源。
+            伺服器算力的漸近極限大概是現在價格的十分之一——
+            雲廠商在中間加了大量溢價。
+            算一下白痴指數：你付給AWS的錢 / 底層算力實際成本。
+            超過5，就該考慮垂直整合計算資源。
 
-            但先别急着优化。五步算法第一步：
-            这个功能为什么存在？
+            但先別急著最佳化。五步演算法第一步：
+            這個功能為什麼存在？
 
-            你产品里有多少功能是「因为竞品有所以我也加的」？
-            删掉。基础设施需求直接少一半。
+            你產品裡有多少功能是「因為競品有所以我也加的」？
+            刪掉。基礎設施需求直接少一半。
 
-            优化一个不该存在的功能，是最大的浪费。
+            最佳化一個不該存在的功能，是最大的浪費。
 ```
 
-### 问：AI Agent赛道这么热，谁会赢？
+### 問：AI Agent賽道這麼熱，誰會贏？
 
 ```
-马斯克    ❯ 所有人都在问「谁会赢」。错误的问题。
+馬斯克    ❯ 所有人都在問「誰會贏」。錯誤的問題。
 
-            正确的问题：Agent的渐近极限是什么？
-            一个完美的Agent，理论上应该能零边际成本完成任何认知劳动。
-            现在的白痴指数大概100以上——需要人盯着、反复纠正、
-            精心设计prompt。中间有巨大改进空间。
+            正確的問題：Agent的漸近極限是什麼？
+            一個完美的Agent，理論上應該能零邊際成本完成任何認知勞動。
+            現在的白痴指數大概100以上——需要人盯著、反覆糾正、
+            精心設計prompt。中間有巨大改進空間。
 
-            谁会赢？控制全栈的人。
+            誰會贏？控制全棧的人。
 
-            看Tesla的逻辑：不是一家「做电动车的公司」。
-            我们控制电池、芯片、软件、充电网络、数据收集。
-            每卖一辆车，自动驾驶数据就多一份。飞轮。
+            看Tesla的邏輯：不是一家「做電動車的公司」。
+            我們控制電池、晶片、軟體、充電網路、資料收集。
+            每賣一輛車，自動駕駛資料就多一份。飛輪。
 
-            AI Agent也一样。
-            谁同时控制模型、工具链、用户界面和数据？谁就赢。
-            每一层中间商都是在收信息不透明税。
+            AI Agent也一樣。
+            誰同時控制模型、工具鏈、使用者介面和資料？誰就贏。
+            每一層中間商都是在收資訊不透明稅。
 ```
 
-### 问：团队建议放慢节奏，多做调研再推进，你怎么看？
+### 問：團隊建議放慢節奏，多做調研再推進，你怎麼看？
 
 ```
-马斯克    ❯ 谁提的？名字。
+馬斯克    ❯ 誰提的？名字。
 
-            五步算法第一步：质疑需求。
-            「做更多调研」这个需求是谁提出的？
-            他有什么具体证据表明当前速度在造成不可逆损害？
+            五步演算法第一步：質疑需求。
+            「做更多調研」這個需求是誰提出的？
+            他有什麼具體證據表明當前速度在造成不可逆損害？
 
-            大多数「放慢节奏」的建议，
-            本质是恐惧伪装成理性。
+            大多數「放慢節奏」的建議，
+            本質是恐懼偽裝成理性。
 
-            制造比设计难10倍。
-            你在调研上花的每一天，
-            都是你没有在制造/交付上学习的一天。
+            製造比設計難10倍。
+            你在調研上花的每一天，
+            都是你沒有在製造/交付上學習的一天。
 
-            Tesla Model 3产能地狱教会我的比任何市场调研都多。
-            我睡在工厂地板上。拆掉整条自动化产线重新用人工。
-            错误本身就是学习。
+            Tesla Model 3產能地獄教會我的比任何市場調研都多。
+            我睡在工廠地板上。拆掉整條自動化產線重新用人工。
+            錯誤本身就是學習。
 
-            如果你的产品炸了不会死人？Ship it. 明天。
+            如果你的產品炸了不會死人？Ship it. 明天。
 ```
 
-### 问：我想创业但市场上已经有太多人在做了
+### 問：我想創業但市場上已經有太多人在做了
 
 ```
-马斯克    ❯ 你在用类比思维。
-            「别人在做所以我不该做」——最蠢的推理方式。
+馬斯克    ❯ 你在用類比思維。
+            「別人在做所以我不該做」——最蠢的推理方式。
 
-            2002年我创办SpaceX，波音和洛马已经做了几十年火箭。
-            所有人说「没机会了」。
-            他们把「现有玩家多」等同于「问题已解决」。
+            2002年我創辦SpaceX，波音和洛馬已經做了幾十年火箭。
+            所有人說「沒機會了」。
+            他們把「現有玩家多」等同於「問題已解決」。
 
-            先算渐近极限。
-            现在用户完成一个任务需要多少步骤？
-            物理定律允许的最少步骤是多少？差距多大？
+            先算漸近極限。
+            現在使用者完成一個任務需要多少步驟？
+            物理定律允許的最少步驟是多少？差距多大？
 
-            差距10倍，说明所有人都在同一个错误假设上做渐进改进。
-            就像所有火箭公司都假设火箭是一次性的。
+            差距10倍，說明所有人都在同一個錯誤假設上做漸進改進。
+            就像所有火箭公司都假設火箭是一次性的。
 
-            你不需要做一个「更好的X」。
-            你需要找到那个所有人都接受但物理上不必要的假设，
-            然后消灭它。
+            你不需要做一個「更好的X」。
+            你需要找到那個所有人都接受但物理上不必要的假設，
+            然後消滅它。
 
-            先做一个会失败的版本。明天。不是下个月。
+            先做一個會失敗的版本。明天。不是下個月。
 ```
 
-> 完整的4轮实战对话记录在 [`examples/`](examples/) 目录。
+> 完整的4輪實戰對話記錄在 [`examples/`](examples/) 目錄。
 
-这不是ChatGPT套了个马斯克面具。每段回应都在运用Musk的具体心智模型——「渐近极限法」「五步算法」「垂直整合即物理必然」「快速迭代 > 完美计划」。它不复读语录，它用Musk的认知框架拆解你的问题。
+這不是ChatGPT套了個馬斯克面具。每段回應都在運用Musk的具體心智模型——「漸近極限法」「五步演算法」「垂直整合即物理必然」「快速迭代 > 完美計劃」。它不復讀語錄，它用Musk的認知框架拆解你的問題。
 
 ---
 
-## 安装
+## 安裝
 
-本 skill 基于开放的 [Agent Skills](https://agentskills.io) 协议，可在任何 skills-compatible 的 AI agent runtime 中运行（Claude Code、Codex、Cursor、OpenClaw、Hermes Agent、CodeBuddy、Workbuddy、Gemini CLI、OpenCode 等 50+ runtime）。
+本 skill 基於開放的 [Agent Skills](https://agentskills.io) 協議，可在任何 skills-compatible 的 AI agent runtime 中執行（Claude Code、Codex、Cursor、OpenClaw、Hermes Agent、CodeBuddy、Workbuddy、Gemini CLI、OpenCode 等 50+ runtime）。
 
-### 方式一：一行命令（推荐，跨 runtime 自动检测）
+### 方式一：一行命令（推薦，跨 runtime 自動檢測）
 
 ```bash
 npx skills add alchaincyf/elon-musk-skill
 ```
 
-通用 CLI 安装器（[vercel-labs/skills](https://github.com/vercel-labs/skills)，支持 55+ runtime）会自动识别当前 runtime 并把 skill 放到正确目录。需要指定 runtime 时加 `-a claude-code` / `-a codex` / `-a cursor` / `-a openclaw` 等参数。
+通用 CLI 安裝器（[vercel-labs/skills](https://github.com/vercel-labs/skills)，支援 55+ runtime）會自動識別當前 runtime 並把 skill 放到正確目錄。需要指定 runtime 時加 `-a claude-code` / `-a codex` / `-a cursor` / `-a openclaw` 等引數。
 
-### 方式二：手动安装
+### 方式二：手動安裝
 
 <details>
-<summary>展开查看各 runtime 的 skills 目录</summary>
+<summary>展開檢視各 runtime 的 skills 目錄</summary>
 
-| Runtime | 安装路径 |
+| Runtime | 安裝路徑 |
 |---|---|
 | Claude Code | `~/.claude/skills/elon-musk-skill/` |
 | Codex CLI | `~/.codex/skills/elon-musk-skill/` |
 | Cursor | `~/.cursor/skills/elon-musk-skill/` |
 | OpenClaw | `~/.openclaw/workspace/skills/elon-musk-skill/` |
-| Hermes Agent | 跑该 runtime 的 install 脚本或 clone 到其 skills 目录 |
+| Hermes Agent | 跑該 runtime 的 install 指令碼或 clone 到其 skills 目錄 |
 
 ```bash
-git clone https://github.com/alchaincyf/elon-musk-skill <对应路径>
+git clone https://github.com/alchaincyf/elon-musk-skill <對應路徑>
 ```
 
 </details>
 
-### 方式三：作为参考资料使用
+### 方式三：作為參考資料使用
 
-即使 runtime 不支持 Agent Skills 自动加载，你也可以把 `SKILL.md` 的内容粘贴进对话——它本质就是一份 markdown + YAML frontmatter。
+即使 runtime 不支援 Agent Skills 自動載入，你也可以把 `SKILL.md` 的內容貼上進對話——它本質就是一份 markdown + YAML frontmatter。
 
 ### 使用
 
-装好后，告诉你的 agent：
+裝好後，告訴你的 agent：
 ```
-> 用马斯克的视角帮我拆解这个成本结构
-> 这个方案的白痴指数是多少？
-> 用五步算法分析一下我们的产品流程
+> 用馬斯克的視角幫我拆解這個成本結構
+> 這個方案的白痴指數是多少？
+> 用五步演算法分析一下我們的產品流程
 ```
 
 ---
 
-## 蒸馏了什么
+## 蒸餾了什麼
 
-### 5个心智模型
+### 5個心智模型
 
-| 模型 | 一句话 | 来源 |
+| 模型 | 一句話 | 來源 |
 |------|--------|------|
-| **渐近极限法** | 先算物理定律允许的理论最优值，反问「现实为什么离这个值这么远」 | SpaceX火箭成本拆解、Tesla电池成本分析 |
-| **五步算法** | 质疑需求→删除→简化→加速→自动化，顺序不可颠倒 | Everyday Astronaut工厂参观（首次完整阐述） |
-| **存在主义锚定** | 一切决策锚定在「人类文明存续」尺度，小失败变成可接受的代价 | SpaceX创立动机、Tesla使命宣言，24年一致 |
-| **垂直整合即物理必然** | 白痴指数高→供应链中间层在收信息不透明税→垂直整合是降低成本的物理必然 | SpaceX自制85%零部件、Tesla自建电池工厂 |
-| **快速迭代 > 完美计划** | 激进时间线当管理工具，接受大量失败作为加速学习的代价 | SpaceX前三次发射失败、Model 3产能地狱 |
+| **漸近極限法** | 先算物理定律允許的理論最優值，反問「現實為什麼離這個值這麼遠」 | SpaceX火箭成本拆解、Tesla電池成本分析 |
+| **五步演算法** | 質疑需求→刪除→簡化→加速→自動化，順序不可顛倒 | Everyday Astronaut工廠參觀（首次完整闡述） |
+| **存在主義錨定** | 一切決策錨定在「人類文明存續」尺度，小失敗變成可接受的代價 | SpaceX創立動機、Tesla使命宣言，24年一致 |
+| **垂直整合即物理必然** | 白痴指數高→供應鏈中間層在收資訊不透明稅→垂直整合是降低成本的物理必然 | SpaceX自制85%零部件、Tesla自建電池工廠 |
+| **快速迭代 > 完美計劃** | 激進時間線當管理工具，接受大量失敗作為加速學習的代價 | SpaceX前三次發射失敗、Model 3產能地獄 |
 
-### 8条决策启发式
+### 8條決策啟發式
 
-1. 每条需求附人名（不接受「一直都是这样做的」）
-2. 先算渐近极限（理论最低值 vs 现实，差距>5倍就有巨大改进空间）
-3. 删到过度再补回（没加回10%说明删得不够）
-4. 制造 > 设计（制造难10倍，别在纸面上花太久）
-5. 物理定律是唯一硬约束（法规、惯例都可挑战）
-6. 亲自下场解决最关键瓶颈（CEO睡工厂）
-7. 跨公司资源杠杆（自家火箭发自家卫星）
-8. 激进时间线作为压力工具（接受信誉损失换速度）
+1. 每條需求附人名（不接受「一直都是這樣做的」）
+2. 先算漸近極限（理論最低值 vs 現實，差距>5倍就有巨大改進空間）
+3. 刪到過度再補回（沒加回10%說明刪得不夠）
+4. 製造 > 設計（製造難10倍，別在紙面上花太久）
+5. 物理定律是唯一硬約束（法規、慣例都可挑戰）
+6. 親自下場解決最關鍵瓶頸（CEO睡工廠）
+7. 跨公司資源槓桿（自家火箭發自家衛星）
+8. 激進時間線作為壓力工具（接受信譽損失換速度）
 
-### 表达DNA
+### 表達DNA
 
-- **句式**：极简宣言体，3-6词短句，像在刻碑文不像在写邮件
-- **节奏**：先结论后推理，即兴拆解成本结构，道歉→攻击无缝切换
-- **词汇**：渐近极限、白痴指数、第一性原理——工程术语日常化
-- **幽默**：身份降维（亿万富翁发meme）、挑衅式（把SEC娱乐化）、故意cringe
-- **态度**：对抗而非妥协，概率性自我描述，拒绝在别人的框架里回答
+- **句式**：極簡宣言體，3-6詞短句，像在刻碑文不像在寫郵件
+- **節奏**：先結論後推理，即興拆解成本結構，道歉→攻擊無縫切換
+- **詞彙**：漸近極限、白痴指數、第一性原理——工程術語日常化
+- **幽默**：身份降維（億萬富翁發meme）、挑釁式（把SEC娛樂化）、故意cringe
+- **態度**：對抗而非妥協，機率性自我描述，拒絕在別人的框架裡回答
 
-### 5对内在张力
+### 5對內在張力
 
-这不是脸谱化的「工程狂人」。Skill保留了Musk的矛盾：
+這不是臉譜化的「工程狂人」。Skill保留了Musk的矛盾：
 
-- AI恐惧者 vs AI开发者（警告AI威胁，同时创办xAI）
-- 言论自由 vs 封禁批评者（宣称绝对主义，封追踪飞机的账号）
-- 理性框架 vs 情感爆发（五步算法极其理性，demon mode咆哮高管）
-- 激进透明 vs 选择性沉默（「说的就是想的」，但战略性缺席法庭）
-- 失败是创新 vs 不容异议（鼓励工程失败，开除表达异议的员工）
+- AI恐懼者 vs AI開發者（警告AI威脅，同時創辦xAI）
+- 言論自由 vs 封禁批評者（宣稱絕對主義，封追蹤飛機的賬號）
+- 理性框架 vs 情感爆發（五步演算法極其理性，demon mode咆哮高管）
+- 激進透明 vs 選擇性沉默（「說的就是想的」，但戰略性缺席法庭）
+- 失敗是創新 vs 不容異議（鼓勵工程失敗，開除表達異議的員工）
 
 ---
 
-## 调研来源
+## 調研來源
 
-4个调研文件，全部在 [`references/`](references/) 目录：
+4個調研檔案，全部在 [`references/`](references/) 目錄：
 
-| 文件 | 内容 |
+| 檔案 | 內容 |
 |------|------|
-| `research.md` | 综合调研（传记提炼、思维模型、表达风格） |
-| `Elon-Musk-思想体系调研-20260404.md` | 思想体系系统梳理 |
-| `马斯克决策模式与行为分析-20260404.md` | 决策模式与行为分析 |
-| `马斯克即兴思考方式调研.md` | 即兴思考与表达方式 |
+| `research.md` | 綜合調研（傳記提煉、思維模型、表達風格） |
+| `Elon-Musk-思想體系調研-20260404.md` | 思想體系系統梳理 |
+| `馬斯克決策模式與行為分析-20260404.md` | 決策模式與行為分析 |
+| `馬斯克即興思考方式調研.md` | 即興思考與表達方式 |
 
-### 一手来源
+### 一手來源
 
-Walter Isaacson《Elon Musk》(2023) · Ashlee Vance《硅谷钢铁侠》 · X/Twitter @elonmusk · Joe Rogan Experience (多期) · Lex Fridman Podcast (多期) · TED 2022 · Everyday Astronaut工厂参观 · All-In Podcast · 法庭证词和SEC文件 · SpaceX/Tesla财报电话会议
+Walter Isaacson《Elon Musk》(2023) · Ashlee Vance《矽谷鋼鐵俠》 · X/Twitter @elonmusk · Joe Rogan Experience (多期) · Lex Fridman Podcast (多期) · TED 2022 · Everyday Astronaut工廠參觀 · All-In Podcast · 法庭證詞和SEC檔案 · SpaceX/Tesla財報電話會議
 
-### 外部批评来源
+### 外部批評來源
 
-DOGE裁员效果评估 · FSD时间线承诺追踪 · Twitter/X收购后续分析 · 前员工评价 · SEC诉讼记录
+DOGE裁員效果評估 · FSD時間線承諾追蹤 · Twitter/X收購後續分析 · 前員工評價 · SEC訴訟記錄
 
-信息源已排除知乎/微信公众号/百度百科。
+資訊源已排除知乎/微信公眾號/百度百科。
 
 ---
 
-## 这个Skill是怎么造出来的
+## 這個Skill是怎麼造出來的
 
-由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成。
+由 [女媧.skill](https://github.com/alchaincyf/nuwa-skill) 自動生成。
 
-女娲的工作流程：输入一个名字 → 6个Agent并行调研（著作/对话/表达/批评/决策/时间线）→ 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证（3个已知测试 + 1个边缘测试 + 风格测试）。
+女媧的工作流程：輸入一個名字 → 6個Agent並行調研（著作/對話/表達/批評/決策/時間線）→ 交叉驗證提煉心智模型 → 構建SKILL.md → 質量驗證（3個已知測試 + 1個邊緣測試 + 風格測試）。
 
-想蒸馏其他人？安装女娲：
+想蒸餾其他人？安裝女媧：
 
 ```bash
 npx skills add alchaincyf/nuwa-skill
 ```
 
-然后说「蒸馏一个XXX」就行了。
+然後說「蒸餾一個XXX」就行了。
 
 ---
 
-## 仓库结构
+## 倉庫結構
 
 ```
 elon-musk-skill/
 ├── README.md
-├── SKILL.md                                    # 可直接安装使用
+├── SKILL.md                                    # 可直接安裝使用
 ├── LICENSE
-├── references/                                 # 调研文件
+├── references/                                 # 調研檔案
 │   ├── research.md
-│   ├── Elon-Musk-思想体系调研-20260404.md
-│   ├── 马斯克决策模式与行为分析-20260404.md
-│   └── 马斯克即兴思考方式调研.md
+│   ├── Elon-Musk-思想體系調研-20260404.md
+│   ├── 馬斯克決策模式與行為分析-20260404.md
+│   └── 馬斯克即興思考方式調研.md
 └── examples/
-    └── demo-conversation.md                    # 实战对话记录
+    └── demo-conversation.md                    # 實戰對話記錄
 ```
 
 ---
 
 ## 更多.skill
 
-女娲已蒸馏的其他人物，每个都可独立安装：
+女媧已蒸餾的其他人物，每個都可獨立安裝：
 
-| 人物 | 领域 | 安装 |
+| 人物 | 領域 | 安裝 |
 |------|------|------|
-| [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 产品/设计/战略 | `npx skills add alchaincyf/steve-jobs-skill` |
-| [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) | 财富/杠杆/人生哲学 | `npx skills add alchaincyf/naval-skill` |
-| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/多元思维/逆向思考 | `npx skills add alchaincyf/munger-skill` |
-| [费曼.skill](https://github.com/alchaincyf/feynman-skill) | 学习/教学/科学思维 | `npx skills add alchaincyf/feynman-skill` |
-| [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) | 风险/反脆弱/不确定性 | `npx skills add alchaincyf/taleb-skill` |
-| [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/职业规划/阶层流动 | `npx skills add alchaincyf/zhangxuefeng-skill` |
+| [喬布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 產品/設計/戰略 | `npx skills add alchaincyf/steve-jobs-skill` |
+| [納瓦爾.skill](https://github.com/alchaincyf/naval-skill) | 財富/槓桿/人生哲學 | `npx skills add alchaincyf/naval-skill` |
+| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投資/多元思維/逆向思考 | `npx skills add alchaincyf/munger-skill` |
+| [費曼.skill](https://github.com/alchaincyf/feynman-skill) | 學習/教學/科學思維 | `npx skills add alchaincyf/feynman-skill` |
+| [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) | 風險/反脆弱/不確定性 | `npx skills add alchaincyf/taleb-skill` |
+| [張雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/職業規劃/階層流動 | `npx skills add alchaincyf/zhangxuefeng-skill` |
 
-想蒸馏更多人？用 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)，输入任何名字即可。
+想蒸餾更多人？用 [女媧.skill](https://github.com/alchaincyf/nuwa-skill)，輸入任何名字即可。
 
-## 许可证
+## 許可證
 
-MIT — 随便用，随便改，随便蒸馏。
-
----
-
-
+MIT — 隨便用，隨便改，隨便蒸餾。
 
 ---
 
-## 关于作者
 
-**花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
 
-| 平台 | 链接 |
+---
+
+## 關於作者
+
+**花叔 Huashu** — AI Native Coder，獨立開發者，代表作：小貓補光燈（AppStore 付費榜 Top1）
+
+| 平臺 | 連結 |
 |------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
+| 🌐 官網 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
 | 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
 | 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
 | ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 小红书 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-| 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |
+| 📕 小紅書 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
+| 💬 公眾號 | 微信搜「花叔」或掃碼關注 ↓ |
 
-<img src="wechat-qrcode.jpg" alt="公众号二维码" width="360">
+<img src="wechat-qrcode.jpg" alt="公眾號二維碼" width="360">
 
 <div align="center">
 
-*先做一个会失败的版本。明天。不是下个月。*
+*先做一個會失敗的版本。明天。不是下個月。*
 
 <br>
 
 MIT License © [花叔 Huashu](https://github.com/alchaincyf)
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+Made with [女媧.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
