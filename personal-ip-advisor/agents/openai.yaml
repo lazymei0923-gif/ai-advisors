@@ -1,0 +1,7 @@
+interface:
+  display_name: "自媒體IP顧問"
+  short_description: "帳號診斷、IP定位、短影音起號與成交漏斗策略設計。"
+  default_prompt: "Use $self-media-ip-consultant to diagnose this account and create a short-video IP growth plan."
+
+policy:
+  allow_implicit_invocation: true
